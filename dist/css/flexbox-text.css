@@ -1,0 +1,21 @@
+.main{
+	display:-webkit-flex;
+	-webkit-flex-wrap:wrap;
+	-webkit-flex-direction:row;
+	-webkit-justify-content:space-between;
+}
+.col-a{
+	-webkit-flex:1;
+	-webkit-align-self:flex-start;
+	-webkit-flex-wrap:wrap;
+}
+.col-b{
+	-webkit-flex:1;
+	-webkit-align-self:flex-start;
+	-webkit-flex-wrap:wrap;
+}
+.col-c{
+	-webkit-flex:1;
+	-webkit-align-self:flex-start;
+	-webkit-flex-wrap:wrap;
+}
